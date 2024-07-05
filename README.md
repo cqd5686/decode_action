@@ -1,4 +1,4 @@
-代码保护学习ing 
+代码保护学习ing 1
 [url:http://encode.onecc.cc]
 
 fork仓库后 把待解密的脚本放入到input.js里面 等待60s左右即可在output.js看到解密脚本
